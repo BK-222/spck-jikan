@@ -13,7 +13,7 @@ const theHeader = {
   data: function() {
     return {
       localData: [], 
-      search_query: 'mushishi'
+      search_query: 'attack on titan'
     }
   }, 
   methods: {
